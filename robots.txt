@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://egheishun.elizabethmckenna.org/sitemap.xml
